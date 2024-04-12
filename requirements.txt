@@ -1,0 +1,17 @@
+# Required packages/modules to run the application
+
+django
+djangorestframework
+django-cas-server
+django-cas-ng
+django-cors-headers
+django-csp
+
+# You may need to manually install the following packages.
+
+docx2pdf
+fpdf2
+PyPDF2
+pandas
+request
+matplotlib
